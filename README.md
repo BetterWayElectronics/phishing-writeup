@@ -1,4 +1,4 @@
-# Bespoke Phishing Against vSphere & Slack (Against QUT Students - Class Activity) 
+# Bespoke Phishing Against vSphere & Slack (Attacking QUT Students - Class Activity) 
 ### Attack Goal
 The goal was to obtain the credentials for vSphere, this seemed like the most highly prized goal as compromising the accounts would potentially allow root access on all of the users VM’s. I also sought for a methodology that has no real technical input or output and can be achieved quickly and easily with a high success rate. Given the ambiguity of whether I was allowed to go for this target I obtained permission from Matthew McKague (Unit Coordinator) prior to attacking all of the students. 
 ### Required Tools & Justification
